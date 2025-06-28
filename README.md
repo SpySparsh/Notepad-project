@@ -20,7 +20,7 @@ Frontend: HTML, CSS, JavaScript
 
 Storage: Filesystem-based (no database)
 
-📂 Project Structure
+```📂 Project Structure
 notepad-app/
 ├── files/
 ├── node_module/
@@ -31,6 +31,7 @@ notepad-app/
 │   └── show.ejs            # Folder where all note files are stored
 ├── app.js                 # Main Express app
 └── package.json
+```
 🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/yourusername/notepad-app.git
