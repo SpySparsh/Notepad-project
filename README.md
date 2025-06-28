@@ -48,6 +48,8 @@ node app.js
 Visit http://localhost:2000 in your browser to access the app.
 ```
 ![Screenshot (304)](https://github.com/user-attachments/assets/49a72529-16ef-4b3f-8465-0437b0a07617)
+![Screenshot (305)](https://github.com/user-attachments/assets/03f73b70-dd2a-4449-a7d6-a3404ddc634a)
+![Screenshot (306)](https://github.com/user-attachments/assets/6ade6103-80b2-485d-b6eb-534139247e3a)
 
 🛡️ License
 This project is licensed under the MIT License.
