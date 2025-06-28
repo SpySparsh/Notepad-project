@@ -34,13 +34,19 @@ notepad-app/
 ```
 🚀 Getting Started
 1. Clone the Repository
+```
 git clone https://github.com/yourusername/notepad-app.git
 cd notepad-app
+```
 2. Install Dependencies
+```
 npm install
+```
 3. Run the App
+```
 node app.js
 Visit http://localhost:2000 in your browser to access the app.
+```
 
 🛡️ License
 This project is licensed under the MIT License.
