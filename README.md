@@ -47,6 +47,7 @@ npm install
 node app.js
 Visit http://localhost:2000 in your browser to access the app.
 ```
+![Screenshot (304)](https://github.com/user-attachments/assets/49a72529-16ef-4b3f-8465-0437b0a07617)
 
 🛡️ License
 This project is licensed under the MIT License.
